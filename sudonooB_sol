@@ -64,5 +64,3 @@ class GFG {
             + findMaxAverage(arr, n, k));
     }
 }
-
-// This code is contributed by anuj_67.
